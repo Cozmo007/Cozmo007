@@ -3,10 +3,15 @@
 
 Program in languages:
 ·C 
+
 ·C++
+
 ·JavaScript
+
 ·Java
+
 ·Python
+
 ·Shell Script
 
 in the future

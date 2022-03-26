@@ -3,6 +3,8 @@
 
 Program in languages:
 
+•Ruby
+
 ·C 
 
 ·C++

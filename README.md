@@ -19,5 +19,7 @@ Program in languages:
 
 ·Shell Script
 
+•Pascal
+
 in the future
 Assembly....

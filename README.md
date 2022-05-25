@@ -1,5 +1,5 @@
 # Olá!
-<img src="https://raw.githubusercontent.com/Cozmo007/main/main/97066561-25F8-4931-AE7E-85DB018B7535.jpeg" width="300" height="200">
+<img src="https://raw.githubusercontent.com/Cozmo007/Cozmo007/main/9D8839D2-0100-479A-BC16-E193F6330C41.gif">
 
 <code>C++</code>
 

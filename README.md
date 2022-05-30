@@ -9,4 +9,3 @@
 
 <code>JavaScript</code>
 
-<code>Python</code>

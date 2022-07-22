@@ -1,3 +1,3 @@
 <h1><i><code>DEVELOPER</code></i></h1>
 
-<img src="https://raw.githubusercontent.com/Cozmo007/Cozmo007/main/9ACECF25-F5D0-4E46-AC7E-2F4466AD01CE.webp" width="200" height="250"/>
+<img src="https://raw.githubusercontent.com/Cozmo007/Cozmo007/main/9ACECF25-F5D0-4E46-AC7E-2F4466AD01CE.webp" width="100" height="350"/>

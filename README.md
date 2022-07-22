@@ -1,5 +1,5 @@
 <h2>Olá, seja bem vindo ao meu Github!</h2>
-<h3>Linguagens.....</h3>
+<h3><i>[⌨️]Linguagens.....</i></h3>
 <blockquote>
 <ul>
   <li><p>🐘 Programo em <strong>PHP</strong></p>

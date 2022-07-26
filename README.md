@@ -2,8 +2,8 @@
 <h3><i>⌨️ Linguagens.....</i></h3>
 <blockquote>
 <ul>
-  <li><p>🐘 Programo em <strong>PHP</strong></p>
-  <li><p>🌎 Programo em <strong>JS</strong></p>
+  <li><p>🐘 Programador <strong>PHP</strong></p>
+  <li><p>🌎 Programador <strong>JS</strong></p>
 </ul>
 </blockquote>
 <h3>💻 Gosto de desenvolvimento de <i>Softwares</i> e desenvolvimento <i>Web</i>..</h3>
